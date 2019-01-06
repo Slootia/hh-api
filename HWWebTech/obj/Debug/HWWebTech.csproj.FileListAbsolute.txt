@@ -1,0 +1,11 @@
+C:\Users\realn\Documents\Visual Studio 2017\Projects\HWWebTech\HWWebTech\obj\Debug\HWWebTech.csprojAssemblyReference.cache
+C:\Users\realn\Documents\Visual Studio 2017\Projects\HWWebTech\HWWebTech\obj\Debug\HWWebTech.csproj.CoreCompileInputs.cache
+C:\Users\realn\Documents\Visual Studio 2017\Projects\HWWebTech\HWWebTech\bin\Debug\HWWebTech.exe.config
+C:\Users\realn\Documents\Visual Studio 2017\Projects\HWWebTech\HWWebTech\bin\Debug\HWWebTech.exe
+C:\Users\realn\Documents\Visual Studio 2017\Projects\HWWebTech\HWWebTech\bin\Debug\HWWebTech.pdb
+C:\Users\realn\Documents\Visual Studio 2017\Projects\HWWebTech\HWWebTech\obj\Debug\HWWebTech.exe
+C:\Users\realn\Documents\Visual Studio 2017\Projects\HWWebTech\HWWebTech\obj\Debug\HWWebTech.pdb
+C:\Users\realn\Documents\Visual Studio 2017\Projects\HWWebTech\HWWebTech\bin\Debug\Newtonsoft.Json.dll
+C:\Users\realn\Documents\Visual Studio 2017\Projects\HWWebTech\HWWebTech\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\realn\Documents\Visual Studio 2017\Projects\HWWebTech\HWWebTech\bin\Debug\Newtonsoft.Json.xml
+C:\Users\realn\Documents\Visual Studio 2017\Projects\HWWebTech\HWWebTech\obj\Debug\HWWebTech.csproj.CopyComplete
